@@ -1,1 +1,1 @@
-# AI-Playlist-Generator
+# Playlist-Generator
